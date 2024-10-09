@@ -14,7 +14,7 @@
   - *Công nghệ*: Node.js, React.js, Express.js, MongoDB
 
 - **Hệ thống xem điểm sinh viên (Student, Teacher, Admin)**  
-  - *Công nghệ*: Go, Gin, MongoDB
+  - *Công nghệ*: Go, Gin, MongoDB, Docker
 
 ## 🛠 Kỹ năng
 
