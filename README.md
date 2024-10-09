@@ -53,6 +53,7 @@
 ### Cơ sở dữ liệu:
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
 </p>
 
 ### DevOps:
