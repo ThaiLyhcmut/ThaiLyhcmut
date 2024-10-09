@@ -1,16 +1,45 @@
-## Hi there 👋
+# Xin chào! 👋 Tôi là Thai Ly
 
-<!--
-**ThaiLyhcmut/ThaiLyhcmut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tôi là một lập trình viên full-stack với kinh nghiệm phát triển các hệ thống quản lý và ứng dụng web. Hiện tại, tôi đang học thêm về Go, Docker và Python để mở rộng kiến thức và kỹ năng.
 
-Here are some ideas to get you started:
+## 📚 Dự án hiện tại
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Hệ thống cửa hàng (Client, Admin)**  
+  - *Công nghệ*: Node.js, Express.js, MongoDB
+
+- **Hệ thống giáo dục (Student, Teacher, Admin)**  
+  - *Công nghệ*: Node.js, React.js, Express.js, MongoDB
+
+- **Hệ thống xem điểm sinh viên (Student, Teacher, Admin)**  
+  - *Công nghệ*: Go, Gin, MongoDB
+
+## 🛠 Kỹ năng
+
+### Ngôn ngữ lập trình:
+- Node.js
+- JavaScript
+- TypeScript
+- Go (đang học)
+- Python (đang học)
+
+### Công nghệ Frontend:
+- Tailwind CSS
+- Material UI (MUI)
+- SCSS
+- Pug
+- HTML
+
+### Frameworks:
+- React.js
+- Next.js
+- Express.js
+- Gin (Go)
+
+### Cơ sở dữ liệu:
+- MongoDB
+
+### DevOps:
+- Docker (đang học)
+
+## 📫 Liên hệ
+Bạn có thể liên hệ với tôi qua email: **lyvinhthai321@gmail.com**
