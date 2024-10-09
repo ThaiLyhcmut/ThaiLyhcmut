@@ -1,4 +1,4 @@
-# Xin chào! 👋 Tôi là Thai Ly
+# Xin chào! 👋 Tôi là Thai Ly đang học tại Trường Đại Học Bách Khoa TPHCM
 
 Tôi là một lập trình viên full-stack với kinh nghiệm phát triển các hệ thống quản lý và ứng dụng web. Hiện tại, tôi đang học thêm về Go, Docker và Python để mở rộng kiến thức và kỹ năng.
 
@@ -37,6 +37,12 @@ Tôi là một lập trình viên full-stack với kinh nghiệm phát triển c
 
 ### Cơ sở dữ liệu:
 - MongoDB
+
+### Công nghệ Backend:
+- Express.js
+- JavaScript
+- Node.js
+- Golang
 
 ### DevOps:
 - Docker (đang học)
