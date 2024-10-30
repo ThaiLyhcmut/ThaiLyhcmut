@@ -6,9 +6,11 @@
 </p>
 
 ## 📚 Dự án hiện tại
-
-- **Hệ thống cửa hàng (Client, Admin)**  
+- **Hệ thống task nhiệm vụ API**
   - *Công nghệ*: Node.js, Express.js, MongoDB
+
+- **Hệ thống cửa hàng và chức năng chat realtime (Client, Admin)**  
+  - *Công nghệ*: Node.js, Express.js, MongoDB, socket.io
 
 - **Hệ thống giáo dục (Student, Teacher, Admin)**  
   - *Công nghệ*: Node.js, React.js, Express.js, MongoDB
