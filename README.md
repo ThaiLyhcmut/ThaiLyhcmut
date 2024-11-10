@@ -2,15 +2,18 @@
 <h3 align="center">Sinh viên tại Trường Đại Học Bách Khoa TPHCM</h3>
 
 <p align="center">
-  Tôi là một lập trình viên full-stack với kinh nghiệm phát triển các hệ thống quản lý và ứng dụng web. Hiện tại, tôi đang học thêm về Go, Docker và Python để mở rộng kiến thức và kỹ năng.
+  Tôi là một lập trình viên full-stack với kinh nghiệm phát triển các hệ thống quản lý và ứng dụng web. Hiện tại, tôi đang học thêm về Go, Docker, Python, mySQL để mở rộng kiến thức và kỹ năng.
 </p>
 
 ## 📚 Dự án hiện tại
+- **Hệ thống tuyển dụng**
+  - *Công nghệ*: nodejs, Express.js, mySQL or SQL server, Pug
+
 - **Hệ thống task nhiệm vụ API**
   - *Công nghệ*: Node.js, Express.js, MongoDB
 
 - **Hệ thống cửa hàng và chức năng chat realtime (Client, Admin)**  
-  - *Công nghệ*: Node.js, Express.js, MongoDB, socket.io
+  - *Công nghệ*: Node.js, Express.js, MongoDB, socket.io, Pug
 
 - **Hệ thống giáo dục (Student, Teacher, Admin)**  
   - *Công nghệ*: Node.js, React.js, Express.js, MongoDB
