@@ -2,7 +2,7 @@
 <h3 align="center">Sinh viên tại Trường Đại Học Bách Khoa TPHCM</h3>
 
 <p align="center">
-  Tôi là một lập trình viên full-stack, DevOps với kinh nghiệm phát triển các hệ thống quản lý và ứng dụng web. Hiện tại, tôi đang học thêm về Go, Docker, Python, mySQL để mở rộng kiến thức và kỹ năng.
+  Tôi là một lập trình viên full-stack, DevOps với kinh nghiệm phát triển các hệ thống quản lý và ứng dụng web. Hiện tại, tôi đang học thêm về GraphQL, Docker, Python, mySQL để mở rộng kiến thức và kỹ năng.
 </p>
 
 ## 📚 Dự án hiện tại
