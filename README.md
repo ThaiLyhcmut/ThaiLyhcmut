@@ -2,27 +2,8 @@
 <h3 align="center">Sinh viên tại Trường Đại Học Bách Khoa TPHCM</h3>
 
 <p align="center">
-  Tôi là một lập trình viên full-stack, DevOps với kinh nghiệm phát triển các hệ thống quản lý và ứng dụng web. Hiện tại, tôi đang học thêm về Python để mở rộng kiến thức và kỹ năng.
+  Tôi là một lập trình viên Frontend, Backend, Mobile App, DevOps với kinh nghiệm phát triển các hệ thống quản lý và ứng dụng web. Hiện tại, tôi đang học thêm về Python để mở rộng kiến thức và kỹ năng.
 </p>
-
-## 📚 Dự án hiện tại
-- **Hệ thống nghe nhạc trực tuyến**
-  - *Công nghệ*: nodejs, Express.js, mongoDB, Pug, TypeScript
-
-- **Hệ thống tuyển dụng**
-  - *Công nghệ*: nodejs, Express.js, mySQL or SQL server, Pug
-
-- **Hệ thống task nhiệm vụ API**
-  - *Công nghệ*: Node.js, Express.js, MongoDB
-
-- **Hệ thống cửa hàng và chức năng chat realtime (Client, Admin)**  
-  - *Công nghệ*: Node.js, Express.js, MongoDB, socket.io, Pug
-
-- **Hệ thống giáo dục (Student, Teacher, Admin)**  
-  - *Công nghệ*: Node.js, React.js, Express.js, MongoDB
-
-- **Hệ thống xem điểm sinh viên (Student, Teacher, Admin)**  
-  - *Công nghệ*: Go, Gin, MongoDB, Docker
 
 ## 🛠 Kỹ năng
 
@@ -37,8 +18,10 @@
 ### Frameworks:
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gin" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
@@ -55,6 +38,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 </p>
 
 ### Cơ sở dữ liệu:
@@ -64,10 +48,10 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-
 ### DevOps:
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
 </p>
 
 ## 📫 Liên hệ
