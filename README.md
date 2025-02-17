@@ -2,7 +2,7 @@
 <h3 align="center">Sinh viên tại Trường Đại Học Bách Khoa TPHCM</h3>
 
 <p align="center">
-  Tôi là một lập trình viên Frontend, Backend, Mobile App, DevOps với kinh nghiệm phát triển các hệ thống quản lý và ứng dụng web. Hiện tại, tôi đang học thêm về Python để mở rộng kiến thức và kỹ năng.
+  Tôi là một lập trình viên Frontend, Backend, Mobile App, DevOps với kinh nghiệm phát triển các hệ thống quản lý, ứng dụng web và blockchain. Hiện tại, tôi đang học thêm Solidity để mở rộng kiến thức và kỹ năng.
 </p>
 
 ## 🛠 Kỹ năng
@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
 </p>
 
 ### Frameworks:
@@ -39,6 +40,16 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+</p>
+
+### Blockchain & Smart Contracts:
+<p align="center">
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
+  <img src="https://img.shields.io/badge/Hardhat-FFA500?style=for-the-badge&logo=ethereum&logoColor=white" alt="Hardhat" />
+  <img src="https://img.shields.io/badge/Truffle-5E473B?style=for-the-badge&logo=truffle&logoColor=white" alt="Truffle" />
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS" />
 </p>
 
 ### Cơ sở dữ liệu:
