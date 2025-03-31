@@ -67,9 +67,9 @@
 
 ### 📊 Thống kê GitHub của tôi
 
-![Thống kê GitHub](https://github-readme-stats.vercel.app/api?username=thai2004&show_icons=true&theme=radical)
+![Thống kê GitHub](https://github-readme-stats.vercel.app/api?username=thailyhcmut&show_icons=true&theme=radical)
 
-![Ngôn ngữ sử dụng](https://github-readme-stats.vercel.app/api/top-langs/?username=thai2004&layout=compact&theme=radical)
+![Ngôn ngữ sử dụng](https://github-readme-stats.vercel.app/api/top-langs/?username=thailyhcmut&layout=compact&theme=radical)
 
 ### ⏳ Thời gian làm việc trên GitHub (Powered by Wakatime)
 
