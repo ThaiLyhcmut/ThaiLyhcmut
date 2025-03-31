@@ -67,13 +67,26 @@
 
 ### 📊 Thống kê GitHub của tôi
 
-![Thống kê GitHub](https://github-readme-stats.vercel.app/api?username=thailyhcmut&show_icons=true&theme=radical)
+![Thống kê GitHub](https://github-readme-stats.vercel.app/api?username=thailyhcmut&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![Ngôn ngữ sử dụng](https://github-readme-stats.vercel.app/api/top-langs/?username=thailyhcmut&layout=compact&theme=radical)
+![Ngôn ngữ sử dụng](https://github-readme-stats.vercel.app/api/top-langs/?username=thailyhcmut&layout=compact&langs_count=100&theme=radical)
+
+### 🏆 Danh hiệu GitHub
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thailyhcmut&theme=radical&no-frame=true&margin-w=15)
 
 ### ⏳ Thời gian làm việc trên GitHub (Powered by Wakatime)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=thailyhcmut)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=thailyhcmut&layout=compact&theme=radical)
+
+### ⚡ GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=thailyhcmut&theme=radical&hide_border=true)
+
+### 📈 Hoạt động trong tháng
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=thailyhcmut&theme=radical)
+
 
 ## 📫 Liên hệ
 <p align="center">
