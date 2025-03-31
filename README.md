@@ -94,15 +94,8 @@
 
 ![GitHub Weekly Commit Graph](https://github-readme-streak-stats.herokuapp.com/?user=thailyhcmut&theme=radical)  
 
-### 🌟 Tổng số Star & Forks trên GitHub  
 
-![GitHub Stars](https://img.shields.io/github/stars/thailyhcmut?color=yellow&label=GitHub%20Stars)  
-![GitHub Forks](https://img.shields.io/github/forks/thailyhcmut?color=blue&label=GitHub%20Forks)  
 
-### 📌 Repo nổi bật  
-
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=thailyhcmut&repo=REPO_NAME&theme=radical)  
-👉 **Thay `REPO_NAME` bằng tên repo của bạn.**  
 
 
 ## 📫 Liên hệ
