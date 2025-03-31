@@ -73,7 +73,7 @@
 
 ### ⏳ Thời gian làm việc trên GitHub (Powered by Wakatime)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=thai2004)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=thailyhcmut)
 
 ## 📫 Liên hệ
 <p align="center">
