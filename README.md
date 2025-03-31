@@ -102,42 +102,7 @@
 ### 📌 Repo nổi bật  
 
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=thailyhcmut&repo=REPO_NAME&theme=radical)  
-👉 **Thay `REPO_NAME` bằng tên repo của bạn.**  ### 📊 Thống kê GitHub của tôi  
-
-![Thống kê GitHub](https://github-readme-stats.vercel.app/api?username=thailyhcmut&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
-
-![Ngôn ngữ sử dụng](https://github-readme-stats.vercel.app/api/top-langs/?username=thailyhcmut&layout=compact&langs_count=100&theme=radical)  
-
-### 🏆 Danh hiệu GitHub  
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thailyhcmut&theme=radical&no-frame=true&margin-w=15)  
-
-### ⏳ Thời gian làm việc trên GitHub (Powered by Wakatime)  
-
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=thailyhcmut&layout=compact&theme=radical)](https://wakatime.com/@thailyhcmut)  
-
-### ⚡ GitHub Streak  
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=thailyhcmut&theme=radical&hide_border=true)  
-
-### 📈 Hoạt động trong tháng  
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thailyhcmut&theme=radical)  
-
-### 🚀 Thống kê Commit theo tuần  
-
-![GitHub Weekly Commit Graph](https://github-readme-streak-stats.herokuapp.com/?user=thailyhcmut&theme=radical)  
-
-### 🌟 Tổng số Star & Forks trên GitHub  
-
-![GitHub Stars](https://img.shields.io/github/stars/thailyhcmut?color=yellow&label=GitHub%20Stars)  
-![GitHub Forks](https://img.shields.io/github/forks/thailyhcmut?color=blue&label=GitHub%20Forks)  
-
-### 📌 Repo nổi bật  
-
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=thailyhcmut&repo=REPO_NAME&theme=radical)  
 👉 **Thay `REPO_NAME` bằng tên repo của bạn.**  
-
 
 
 ## 📫 Liên hệ
