@@ -85,7 +85,8 @@
 
 ### 📈 Hoạt động trong tháng
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=thailyhcmut&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thailyhcmut&theme=radical)
+
 
 
 ## 📫 Liên hệ
