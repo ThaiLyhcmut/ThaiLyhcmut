@@ -65,6 +65,16 @@
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
 </p>
 
+### 📊 Thống kê GitHub của tôi
+
+![Thống kê GitHub](https://github-readme-stats.vercel.app/api?username=thai2004&show_icons=true&theme=radical)
+
+![Ngôn ngữ sử dụng](https://github-readme-stats.vercel.app/api/top-langs/?username=thai2004&layout=compact&theme=radical)
+
+### ⏳ Thời gian làm việc trên GitHub (Powered by Wakatime)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=thai2004)
+
 ## 📫 Liên hệ
 <p align="center">
   Bạn có thể liên hệ với tôi qua email: <a href="mailto:lyvinhthai321@gmail.com">**lyvinhthai321@gmail.com**</a>
