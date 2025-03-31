@@ -77,7 +77,7 @@
 
 ### ⏳ Thời gian làm việc trên GitHub (Powered by Wakatime)
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=thailyhcmut)](https://wakatime.com/@thailyhcmut)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=thailyhcmut)
 
 ### ⚡ GitHub Streak
 
