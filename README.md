@@ -5,7 +5,7 @@
 ### 🎓 Sinh viên tại Trường Đại Học Bách Khoa TPHCM
 
 Tôi là một lập trình viên **Fullstack & DevOps**, có kinh nghiệm phát triển hệ thống quản lý, ứng dụng web và mobile.  
-Hiện tại, tôi **đã thành thạo Python** và đang mở rộng chuyên môn trong các lĩnh vực **gRPC, GraphQL (gqlgen, Apollo), Proto, Redis** và hệ thống **phân tán hiệu năng cao**.
+Hiện tại, tôi đang mở rộng chuyên môn trong các lĩnh vực **gRPC, GraphQL (gqlgen, Apollo), Proto, Redis** và hệ thống **phân tán hiệu năng cao**.
 
 ---
 
