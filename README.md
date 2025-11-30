@@ -58,20 +58,36 @@ Hiện tại, tôi đang mở rộng chuyên môn trong các lĩnh vực **gRPC,
 
 ---
 
-### 🗄️ Cơ sở dữ liệu
+### 🗄️ Cơ sở dữ liệu & Storage
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 
 ---
 
-### ☁️ DevOps & Cloud
+### ☁️ DevOps & Cloud & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-29B6F6?style=for-the-badge&logo=portainer&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+---
+
+### 🔭 Observability & Monitoring
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+---
+
+### 🤖 AI & Automation
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
+![Open WebUI](https://img.shields.io/badge/Open%20WebUI-303030?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -109,7 +125,9 @@ Hiện tại, tôi đang mở rộng chuyên môn trong các lĩnh vực **gRPC,
 
 ## 📫 Liên hệ
 
+
 📧 **Email:** [lyvinhthai321@gmail.com](mailto:lyvinhthai321@gmail.com)
+📧 **Email:** [admin@thaily.id.vn](mailto:admin@thaily.id.vn)
 
 ---
 
